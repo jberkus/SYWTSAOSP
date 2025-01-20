@@ -1,10 +1,10 @@
 # The Contributor Pyramid
 
-![illustration of a contributor pyramid](/contributor pyramid.png)
+![illustration of a contributor pyramid](contributor_pyramid.png)
 
 Any healthy, well-staffed open source project with more than a couple dozen participants can be described as a Contributor Pyramid.  This model looks at the amount of involvement people have with the project from least (bottom) to full-time commitment (top), as well as their authority and responsibility.  
 
-The reason we use a pyramid instead of a ladder is to remind ourselves that lower levels have many more people in them.  In terms of contributor recrutiment and development, it take dozens to hundreds of users to produce one new maintainer.  If we were looking at it by the volume of contributions, it would be an inverted pyramid, as for most projects the maintainers are responsible for the majority of total contributions.
+The reason we use a pyramid instead of a ladder is to remind ourselves that lower levels have many more people in them.  In terms of contributor recruitiment and development, it take dozens to hundreds of users to produce one new maintainer.  If we were looking at it by the volume of contributions, it would be an inverted pyramid, as for most projects the maintainers are responsible for the majority of total contributions.
 
 This makes this model useful for developing our strategy around evolving the project. As you proceed with your open source project you are looking to build out a healthy, robust, growing or at least stable pyramid.  This model defines the structure of the rest of this book; each of the sections can be thought of in terms of which level of the pyramid you're working on.
 
@@ -102,7 +102,7 @@ Maintainers are characterized by:
 
 None of these populations are static.  Constantly, almost every person in your project is either increasing or decreasing involvement.  When monitoring your project, you need to look at movement up and down the pyramid.  That tells you if your project is growing or shrinking. While individual cases can vary a lot, in general it's useful to look at contributors as moving between levels one at a time.
 
-![contributor pyramid, with arrows showing movement between levels](/contributor pyramid movement.md)
+![contributor pyramid, with arrows showing movement between levels](contributor_pyramid_movement.png)
 
 ## Contributors Moving Up
 
