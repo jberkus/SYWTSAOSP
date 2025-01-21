@@ -18,6 +18,8 @@ These are the people and organizations who use your project, but do not have any
 
 As Silent Users are not self-identified, criteria is important.  Your project's users include anyone who has sufficient contact with your software to make distinctions between it and alternative software.  For example, for a Kubernetes Operator, estimated silent users would include Kubernetes admins where the Operator is deployed, and software developers who build applications utilizing the Operator, but would not include users of those applications.  This is potentially a different definition than marketing staff would use, since here we are concerned with users who are potential contributors, and people who have no direct contact with your software simply aren't.
 
+For projects which are also products, Silent Users are the customers who are unaware of the upstream project.  They know the software only as something that they buy.  Unlike other types of Silent Users, you have the advantage of knowing who the customers are.
+
 Characterizing Silent Users:
 
 * Do not have any community contact
@@ -32,6 +34,8 @@ Note that the last indicator is trailing; job listings about a technology tend t
 ### Involved Users
 
 Some minority of your users can become involved with the project.  This includes participating in community forums, attending meetups and conferences, filing and commenting on bug reports, filling out surveys, or interacting with contributors in social media.  They may mention your project in articles, videos, and on social media. These are the users that you know about.
+
+For productized projects, Involved Users include customers who are aware of, and sometimes interact with, the upstream project.  They may run the free version as well as the paid version, or they may participate in community forums and events.
 
 Involved users are characterized by:
 
